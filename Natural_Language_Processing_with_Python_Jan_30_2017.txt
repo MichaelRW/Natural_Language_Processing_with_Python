@@ -1,0 +1,19 @@
+
+
+
+=====================================================
+Monday, January 30, 2017
+
+c.) 
+b.) Download the natural language toolkit from www.nltk.org".
+	The version of NLTK installed with Anacondo3 (4.2.0) is 3.2.1. ("conda search nltk")
+	Update the version of NLTK to 3.2.2 (December 2016) ("conda install nltk")
+a.) Begin reading "Natural Language Processing with Python".
+
+
+
+=====================================================
+Anaconda Reference Material
+
+http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+https://conda.io/docs/using/pkgs.html
