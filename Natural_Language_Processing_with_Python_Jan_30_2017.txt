@@ -2,6 +2,15 @@
 
 
 =====================================================
+Thursday, February 2, 2017
+
+d.) End at "Counting Vocabulary".
+c.) The GENERATE() method was removed from the NLTK due to internal code organization.
+b.) https://conda.io/docs/index.html
+a.) Continue reading Chapter 1
+
+
+=====================================================
 Wednesday, February 1, 2017
 
 b.) Stop at the end of page 6 ("generate").
